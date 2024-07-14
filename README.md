@@ -80,4 +80,4 @@ python main.py
 - `id_word` (Foreign Key): Ссылка на слово из таблицы `words`.
 
 ## Схема базы данных
-![ Database Diagram](diagram_BD.bmp)
+![ Database Diagram](Diagram_BD.bmp)
